@@ -1,0 +1,4 @@
+token=NDYxMTEyNDg2MjU5NTg5MTMw.DhOkBg.wM1q8cAoNCfsNe3RyFfZa1JB-yk
+owner=284933890949382144
+prefix=r!
+status=Type r!help
